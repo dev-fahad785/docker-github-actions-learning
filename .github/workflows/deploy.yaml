@@ -1,6 +1,6 @@
 name: deploy nodejs app on ec2
 
-on:
+on: 
     push:
         branches: 
             - master 
